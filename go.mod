@@ -1,4 +1,4 @@
-module github.com/han-joker/moo
+module github.com/hun9k/moo
 
 go 1.23.3
 
