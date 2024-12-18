@@ -4,7 +4,7 @@ The MIT License (MIT)
 */
 package main
 
-import "github.com/han-joker/moo/cmd"
+import "github.com/hun9k/moo/cmd"
 
 func main() {
 	cmd.Execute()
